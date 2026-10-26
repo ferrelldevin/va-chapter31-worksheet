@@ -1,5 +1,7 @@
 # VA Chapter 31 Payment Worksheet
 
+> Full case study: [devinferrell.com/work/va-chapter-31-worksheet](https://devinferrell.com/work/va-chapter-31-worksheet/)
+
 **Case study — the tool is not linked here on purpose.** An independent adversarial review
 returned a failing verdict on an earlier build and it has not been re-gated, so the verdict of
 record still stands. Money is the failure mode; I am not sending strangers to a calculator that
